@@ -1,2 +1,2 @@
 # SupremeBot
-Now-defunct automatic checkout program for Supreme NY webstore. Created for educational purposes only, uploaded to GitHub for viewing.
+defunct automatic checkout software for online webstore selling coveted items. created in 2016.
